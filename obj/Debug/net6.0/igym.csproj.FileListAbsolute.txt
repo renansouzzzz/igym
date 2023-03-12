@@ -1,0 +1,15 @@
+C:\Users\Computer\source\repos\igym\igym\bin\Debug\net6.0\igym.exe
+C:\Users\Computer\source\repos\igym\igym\bin\Debug\net6.0\igym.deps.json
+C:\Users\Computer\source\repos\igym\igym\bin\Debug\net6.0\igym.runtimeconfig.json
+C:\Users\Computer\source\repos\igym\igym\bin\Debug\net6.0\igym.dll
+C:\Users\Computer\source\repos\igym\igym\bin\Debug\net6.0\igym.pdb
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.AssemblyInfo.cs
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.dll
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\refint\igym.dll
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.pdb
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\igym.genruntimeconfig.cache
+C:\Users\Computer\source\repos\igym\igym\obj\Debug\net6.0\ref\igym.dll
